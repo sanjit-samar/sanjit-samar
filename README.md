@@ -8,9 +8,8 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtxo9xvELTLW8q1onI-X2x-p98_bR1Hf16i-gL0aWyw&s" alt="redux" width="auto" height="40"/>
-  <img src="https://solidstudio.io/_next/imageurl=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flofvu8al%2Fproduction%2F915aa873ca2e568f347fd579430ef38dd18cd8f3-420x308.png&w=1080&q=75" alt="nodejs" width="auto" height="40"/>
-  <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/0ae375be-eeff-46e4-a4a5-cfd4b93adbbf" alt="typescript" width="auto" height="40"/>
-  
+  <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/a1aef73a-a307-4b90-8546-4771393999d7" alt="nodejs" width="auto" height="40"/>
+  <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/0ae375be-eeff-46e4-a4a5-cfd4b93adbbf" alt="typescript" width="auto" height="40"/>  
 </p>
   
 <div align=center>
