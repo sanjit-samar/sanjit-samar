@@ -7,6 +7,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtxo9xvELTLW8q1onI-X2x-p98_bR1Hf16i-gL0aWyw&s" alt="redux" width="auto" height="40"/>
 <p align="center">
   
 <div align=center>
@@ -20,9 +21,8 @@
 👉Excited about contributing my skills and expertise to innovative projects that push the boundaries of web development. Open to new opportunities and networking with fellow professionals in the field. 
 
 ✅Let's connect and explore possibilities together!
-<br/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/sanjit-s/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-<br/>
 <a href="https://mail.google.com/"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" title="gmail" alt="gmail Account" width="30"/></a>
 <br>
   
