@@ -8,7 +8,7 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtxo9xvELTLW8q1onI-X2x-p98_bR1Hf16i-gL0aWyw&s" alt="redux" width="auto" height="40"/>
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/14/03/node-js-emblem-vector-28501403.jpg" alt="nodejs" width="auto" height="40"/>
+  <img src="https://cdn4.vectorstock.com/i/1000x1000/14/03/node-js-emblem-vector-28501403.jpg" alt="nodejs" width="auto" height="50"/>
   <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/0ae375be-eeff-46e4-a4a5-cfd4b93adbbf" alt="typescript" width="auto" height="40"/>
   
 </p>
