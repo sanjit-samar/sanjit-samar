@@ -8,7 +8,10 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtxo9xvELTLW8q1onI-X2x-p98_bR1Hf16i-gL0aWyw&s" alt="redux" width="auto" height="40"/>
-<p align="center">
+  <img src="https://cdn4.vectorstock.com/i/1000x1000/14/03/node-js-emblem-vector-28501403.jpg" alt="nodejs" width="auto" height="40"/>
+  <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/0ae375be-eeff-46e4-a4a5-cfd4b93adbbf" alt="typescript" width="auto" height="40"/>
+  
+</p>
   
 <div align=center>
  <p><img src="https://komarev.com/ghpvc/?username=sanjit-samar&color=red" alt="sanjit-samar"/></p>
@@ -23,7 +26,6 @@
 ✅Let's connect and explore possibilities together!
 <br/><br/>
 <a href="https://www.linkedin.com/in/sanjit-s/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-<a href="https://mail.google.com/"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" title="gmail" alt="gmail Account" width="30"/></a>
 <br>
   
 <a href="https://github.com/sanjit-samar/github-readme-stats">
