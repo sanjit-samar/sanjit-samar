@@ -3,21 +3,28 @@
 
 <h3 align="left">🎯 Top skills</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="auto" alt="js">&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbtxo9xvELTLW8q1onI-X2x-p98_bR1Hf16i-gL0aWyw&s" alt="redux" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/a1aef73a-a307-4b90-8546-4771393999d7" alt="nodejs" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/sanjit-samar/sanjit-samar/assets/38504693/0ae375be-eeff-46e4-a4a5-cfd4b93adbbf" alt="typescript" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <!-- Added Express.js -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <!-- Added MongoDB -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/MongoDB-Logo.svg/2560px-MongoDB-Logo.svg.png" alt="mongodb" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <!-- Added Redis -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/2560px-Redis_Logo.svg.png" alt="redis" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <!-- Added JWT -->
-  <img src="https://jwt.io/img/logo.svg" alt="jwt" width="auto" height="40"/>
+  <!-- HTML -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- CSS -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- JavaScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- React -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- Redux -->
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- Node.js -->
+  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- TypeScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- Express.js -->
+  <img src="https://upload.wikimedia.org/commons/6/64/Expressjs.png" alt="expressjs" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- MongoDB (fixed) -->
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- Redis (fixed) -->
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40">&nbsp;&nbsp;&nbsp;
+  <!-- JWT -->
+  <img src="https://jwt.io/img/logo.svg" alt="jwt" height="40"/>
 </p>
 
   
