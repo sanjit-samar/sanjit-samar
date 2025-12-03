@@ -18,7 +18,7 @@
   <!-- TypeScript -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40">&nbsp;&nbsp;&nbsp;
   <!-- Express.js -->
-  <img src="https://upload.wikimedia.org/commons/6/64/Expressjs.png" alt="expressjs" height="40">&nbsp;&nbsp;&nbsp;
+ <img src="https://seekvectors.com/files/download/expressjs-logo.png" alt="expressjs" height="40">&nbsp;&nbsp;&nbsp;
   <!-- MongoDB (fixed) -->
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40">&nbsp;&nbsp;&nbsp;
   <!-- Redis (fixed) -->
