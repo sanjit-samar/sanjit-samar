@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello Geeks,I'm Sanjit Samar</h1>
-<h2 align="center">🚀 UI Developer</h2>
+<h2 align="center">🚀 Full Stack Developer </h2>
+<h2 align="center">🎯 Developing screens | Building APIs | React.js | Next.js | Node.js | Express.js | Javascript | Typescript | JWT | Redis | MVC | SQL | NO-SQL DB
+ </h2>
 
-<h3 align="left">🎯 Top skills</h3>
+<h3 align="left">✅ Top skills</h3>
 <p align="left">
   <!-- HTML -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" height="40">&nbsp;&nbsp;&nbsp;
