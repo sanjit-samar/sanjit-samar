@@ -8,36 +8,17 @@
 
 <h3 align="left">✅ Top Skills</h3>
 
-<p align="left">
+<h3 align="center">✅ Top Skills</h3>
 
-<!-- OpenAI -->
-
-<img src="https://cdn.simpleicons.org/openai" alt="openai" height="40">   
-
-<!-- Python -->
-
-<img src="https://cdn.simpleicons.org/python" alt="python" height="40">   
-
-<!-- React -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="40">   
-
-<!-- NextJS -->
-
-<img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" height="40">   
-
-<!-- TypeScript -->
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40">   
-
-<!-- Docker -->
-
-<img src="https://cdn.simpleicons.org/docker" alt="docker" height="40">   
-
-<!-- Git -->
-
-<img src="https://cdn.simpleicons.org/git" alt="git" height="40">   
-
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" height="40" />
+  <img src="https://cdn.simpleicons.org/google" alt="Gemini" height="40" />
+  <img src="https://cdn.simpleicons.org/python" alt="Python" height="40" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" height="40" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="40" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="40" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" height="40" />
+  <img src="https://cdn.simpleicons.org/git" alt="Git" height="40" />
 </p>
 
 <div align="center">
