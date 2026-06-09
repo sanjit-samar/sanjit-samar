@@ -11,12 +11,11 @@
 <h3 align="center">✅ Top Skills</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" height="40" />
+  <img src="https://cdn.simpleicons.org/langchain" alt="langchain" height="40" />
   <img src="https://cdn.simpleicons.org/google" alt="Gemini" height="40" />
   <img src="https://cdn.simpleicons.org/python" alt="Python" height="40" />
   <img src="https://cdn.simpleicons.org/react" alt="React" height="40" />
   <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="40" />
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" height="40" />
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" height="40" />
   <img src="https://cdn.simpleicons.org/git" alt="Git" height="40" />
 </p>
