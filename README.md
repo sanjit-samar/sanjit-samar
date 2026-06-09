@@ -1,67 +1,109 @@
-<h1 align="center">👋 Hello Geeks,I'm Sanjit Samar</h1>
-<h2 align="center">🚀 Full Stack Developer </h2>
-<h2 align="center">🎯 Developing screens | Building APIs | React.js | Next.js | Node.js | Express.js | Javascript | Typescript | JWT | Redis | MVC | SQL | NO-SQL DB
- </h2>
+<h1 align="center">👋 Hello Geeks, I'm Sanjit Samar</h1>
 
-<h3 align="left">✅ Top skills</h3>
+<h2 align="center">🚀 Generative AI Engineer</h2>
+
+<h2 align="center">
+🤖 AI Agents | Agentic Workflows | RAG Systems | MCP | Prompt Engineering | OpenAI | Gemini | Claude | LangChain | LangGraph | React.js | Next.js | TypeScript
+</h2>
+
+<h3 align="left">✅ Top Skills</h3>
+
 <p align="left">
-  <!-- HTML -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- CSS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- JavaScript -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- React -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- Redux -->
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- Node.js -->
-  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- TypeScript -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- Express.js -->
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="auto" height="40"/>&nbsp;&nbsp;&nbsp;
-  <!-- MongoDB (fixed) -->
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- Redis (fixed) -->
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40">&nbsp;&nbsp;&nbsp;
-  <!-- JWT -->
-  <img src="https://jwt.io/img/logo.svg" alt="jwt" height="40"/>
+
+<!-- OpenAI -->
+
+<img src="https://cdn.simpleicons.org/openai" alt="openai" height="40">   
+
+<!-- Python -->
+
+<img src="https://cdn.simpleicons.org/python" alt="python" height="40">   
+
+<!-- React -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="40">   
+
+<!-- NextJS -->
+
+<img src="https://cdn.simpleicons.org/nextdotjs" alt="nextjs" height="40">   
+
+<!-- TypeScript -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40">   
+
+<!-- Docker -->
+
+<img src="https://cdn.simpleicons.org/docker" alt="docker" height="40">   
+
+<!-- Git -->
+
+<img src="https://cdn.simpleicons.org/git" alt="git" height="40">   
+
 </p>
 
-  
-<div align=center>
- <p><img src="https://komarev.com/ghpvc/?username=sanjit-samar&color=red" alt="sanjit-samar"/></p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sanjit-samar&color=blue" alt="sanjit-samar"/>
+  </p>
 </div>
 
-👉A Passionate JavaScript developer with a strong foundation in Enterprise Level Application development. Proficient in building interactive and responsive web applications, with a keen eye for user experience. 
+## 🚀 About Me
 
-👉Experienced in collaborating with cross-functional teams to deliver high-quality software solutions. Dedicated to continuous learning and staying up-to-date with the latest industry trends.
+👉 Generative AI Engineer passionate about building production-ready AI applications using Large Language Models (LLMs), AI Agents, and Agentic Workflows.
 
-👉Excited about contributing my skills and expertise to innovative projects that push the boundaries of web development. Open to new opportunities and networking with fellow professionals in the field. 
+👉 Experienced in designing and developing AI-powered products using OpenAI, Gemini, Claude, LangChain, LangGraph, MCP, and Retrieval-Augmented Generation (RAG).
 
-✅Let's connect and explore possibilities together!
+👉 Skilled in building modern AI interfaces with React.js, Next.js, and TypeScript while integrating cutting-edge AI capabilities into real-world applications.
+
+👉 Currently focused on AI SaaS products, autonomous agents, workflow automation, and next-generation developer tools.
+
+👉 Always exploring new advancements in Generative AI and applying them to create impactful products.
+
+## 🎯 Current Focus
+
+✅ AI Agents
+
+✅ Agentic Workflows
+
+✅ MCP (Model Context Protocol)
+
+✅ RAG Architectures
+
+✅ OpenAI API
+
+✅ Gemini API
+
+✅ Claude API
+
+✅ LangChain
+
+✅ LangGraph
+
+✅ Prompt Engineering
+
+✅ AI SaaS Development
+
+✅ React.js & Next.js
+
+<br/>
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/sanjit-s/">
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="LinkedIn Account" width="30"/>
+</a>
+
 <br/><br/>
-<a href="https://www.linkedin.com/in/sanjit-s/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-<br>
-  
-<a href="https://github.com/sanjit-samar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjit-samar&theme=dracula&hide=glsl,python" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjit-samar&show_icons=true&theme=dracula&line_height=27" alt="sanjit-samar's github stats" />
-</a>
-<!--
-**sanjit-samar/sanjit-samar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjit-samar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjit-samar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ Building AI-powered products and intelligent systems.
