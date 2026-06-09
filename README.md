@@ -15,9 +15,8 @@
   <img src="https://cdn.simpleicons.org/google" alt="Gemini" height="40" />
   <img src="https://cdn.simpleicons.org/python" alt="Python" height="40" />
   <img src="https://cdn.simpleicons.org/react" alt="React" height="40" />
-  <img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="40" />
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" height="40" />
   <img src="https://cdn.simpleicons.org/git" alt="Git" height="40" />
+  <img src="https://camo.githubusercontent.com/4b1c657f9246931ce8d7e79b99cf7e622cd229f97e06fe85dfd64a761e248616/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c6a732c666173746170692c666c61736b2c646f636b65722c706f7374677265732c6d6f6e676f64622c6177732c676974687562616374696f6e73267065726c696e653d39" alt="Git" height="40" />
 </p>
 
 <div align="center">
@@ -40,29 +39,21 @@
 
 ## 🎯 Current Focus
 
-✅ AI Agents
-
-✅ Agentic Workflows
-
-✅ MCP (Model Context Protocol)
-
-✅ RAG Architectures
-
-✅ OpenAI API
-
-✅ Gemini API
-
-✅ Claude API
-
-✅ LangChain
-
-✅ LangGraph
-
-✅ Prompt Engineering
-
-✅ AI SaaS Development
-
+<p align="center">
+✅ AI Agents &nbsp; | &nbsp;
+✅ Agentic Workflows &nbsp; | &nbsp;
+✅ MCP (Model Context Protocol) &nbsp; | &nbsp;
+✅ RAG Architectures &nbsp; | &nbsp;
+✅ OpenAI API &nbsp; | &nbsp;
+✅ Gemini API &nbsp; | &nbsp;
+✅ Claude API &nbsp; | &nbsp;
+✅ LangChain &nbsp; | &nbsp;
+✅ LangGraph &nbsp; | &nbsp;
+✅ Prompt Engineering &nbsp; | &nbsp;
+✅ AI SaaS Development &nbsp; | &nbsp;
 ✅ React.js & Next.js
+</p>
+
 
 <br/>
 
