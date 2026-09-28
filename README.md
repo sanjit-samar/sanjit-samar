@@ -16,9 +16,6 @@
 </p>
 
 </div>
-
----
-
 <h3 align="left">🚀 What I Do</h3>
 
 <p align="left">
@@ -142,8 +139,6 @@ alt="LinkedIn Account"
 width="35"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/sanjit-samar">
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 title="GitHub"
@@ -152,25 +147,3 @@ width="35"/>
 </a>
 
 </p>
-
----
-
-<h3 align="center">📈 GitHub Statistics</h3>
-
-<p align="center">
-
-<a href="https://github.com/sanjit-samar">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=sanjit-samar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/sanjit-samar">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjit-samar&layout=compact&theme=dracula"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">🚀 Building AI-Powered Applications | 🤖 Exploring Generative AI | 🧠 Learning & Building Every Day</h3>
