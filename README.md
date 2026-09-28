@@ -92,37 +92,8 @@ React.js | Next.js | JavaScript | TypeScript | HTML | CSS
 <h3 align="left">🔥 Top Skills</h3>
 
 <p align="left">
-
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- FastAPI -->
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- LangChain -->
-<img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" height="40"/>&nbsp;&nbsp;&nbsp;
-
-<!-- OpenAI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="openai" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-
-<!-- React -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- Next.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- JavaScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- TypeScript -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- PostgreSQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-
-<!-- Redis -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,openai,react,nextjs,javascript,typescript,postgres,redis" />
+</p>
 </p>
 
 ---
