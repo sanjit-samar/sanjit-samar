@@ -1,1 +1,258 @@
-<h1 align="center">👋 Hello Geeks,I'm Sanjit Samar</h1> <h2 align="center">🚀 Full Stack Developer </h2> <h2 align="center">🎯 Developing screens | Building APIs | React.js | Next.js | Node.js | Express.js | Javascript | Typescript | JWT | Redis | MVC | SQL | NO-SQL DB </h2> <h3 align="left">✅ Top skills</h3> <p align="left"> <!-- HTML --> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" height="40">&nbsp;&nbsp;&nbsp; <!-- CSS --> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" height="40">&nbsp;&nbsp;&nbsp; <!-- JavaScript --> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" height="40">&nbsp;&nbsp;&nbsp; <!-- React --> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="40">&nbsp;&nbsp;&nbsp; <!-- Redux --> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" height="40">&nbsp;&nbsp;&nbsp; <!-- Node.js --> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" height="40">&nbsp;&nbsp;&nbsp; <!-- TypeScript --> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40">&nbsp;&nbsp;&nbsp; <!-- Express.js --> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs" width="auto" height="40"/>&nbsp;&nbsp;&nbsp; <!-- MongoDB (fixed) --> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="40">&nbsp;&nbsp;&nbsp; <!-- Redis (fixed) --> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" height="40">&nbsp;&nbsp;&nbsp; <!-- JWT --> <img src="https://jwt.io/img/logo.svg" alt="jwt" height="40"/> </p> <div align=center> <p><img src="https://komarev.com/ghpvc/?username=sanjit-samar&color=red" alt="sanjit-samar"/></p> </div> 👉A Passionate JavaScript developer with a strong foundation in Enterprise Level Application development. Proficient in building interactive and responsive web applications, with a keen eye for user experience. 👉Experienced in collaborating with cross-functional teams to deliver high-quality software solutions. Dedicated to continuous learning and staying up-to-date with the latest industry trends. 👉Excited about contributing my skills and expertise to innovative projects that push the boundaries of web development. Open to new opportunities and networking with fellow professionals in the field. ✅Let's connect and explore possibilities together! <br/><br/> <a href="https://www.linkedin.com/in/sanjit-s/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> <br> <a href="https://github.com/sanjit-samar/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjit-samar&theme=dracula&hide=glsl,python" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjit-samar&show_icons=true&theme=dracula&line_height=27" alt="sanjit-samar's github stats" /> </a>
+<h1 align="center">👋 Hello Geeks, I'm Sanjit Samar</h1>
+
+<h2 align="center">🤖 AI Engineer | Generative AI Engineer</h2>
+
+<h2 align="center">
+  🧠 LLMs | RAG | AI Agents | Agentic Workflows | LangChain | LangGraph | MCP
+</h2>
+
+<h2 align="center">
+  🐍 Python | FastAPI | Vector Databases | OpenAI | Gemini | Claude | AWS Bedrock | Azure OpenAI
+</h2>
+
+---
+
+<h3 align="left">🚀 What I Do</h3>
+
+<p align="left">
+
+🤖 <b>Generative AI Engineering</b> — Building AI-powered applications using LLMs and modern GenAI technologies.
+
+<br/><br/>
+
+🧠 <b>RAG Systems</b> — Designing Retrieval-Augmented Generation pipelines with document processing, chunking, embeddings, vector databases, retrieval and LLM-based generation.
+
+<br/><br/>
+
+🔗 <b>AI Agents & Agentic Workflows</b> — Building intelligent agents and multi-step workflows using LangGraph, tools, APIs and MCP.
+
+<br/><br/>
+
+⚡ <b>AI APIs & Backend</b> — Developing production-ready AI APIs and backend services using Python and FastAPI.
+
+<br/><br/>
+
+🎯 <b>AI SaaS Applications</b> — Combining GenAI, backend APIs and modern frontend technologies to build end-to-end AI products.
+
+</p>
+
+---
+
+<h3 align="left">🛠️ AI & GenAI Skills</h3>
+
+<p align="left">
+
+🤖 <b>Generative AI</b><br/>
+LLMs | Prompt Engineering | Context Engineering | AI Applications | AI SaaS
+
+<br/><br/>
+
+🧠 <b>LLM & AI APIs</b><br/>
+OpenAI API | Gemini API | Claude API | AWS Bedrock | Azure OpenAI
+
+<br/><br/>
+
+📚 <b>RAG</b><br/>
+Retrieval-Augmented Generation | Document Processing | Chunking | Embeddings | Semantic Search | Vector Databases
+
+<br/><br/>
+
+🔗 <b>AI Agents</b><br/>
+AI Agents | Agentic Workflows | Tool Calling | Function Calling | MCP | Multi-Step AI Workflows
+
+<br/><br/>
+
+⚙️ <b>AI Frameworks</b><br/>
+LangChain | LangGraph | MCP
+
+<br/><br/>
+
+🐍 <b>Backend & APIs</b><br/>
+Python | FastAPI | REST APIs
+
+<br/><br/>
+
+🗄️ <b>Databases</b><br/>
+Vector Databases | PostgreSQL | SQL | NoSQL | Redis
+
+</p>
+
+---
+
+<h3 align="left">💻 Development Skills</h3>
+
+<p align="left">
+
+React.js | Next.js | JavaScript | TypeScript | HTML | CSS
+
+</p>
+
+---
+
+<h3 align="left">🔥 Top Skills</h3>
+
+<p align="left">
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- FastAPI -->
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- LangChain -->
+<img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" height="40"/>&nbsp;&nbsp;&nbsp;
+
+<!-- OpenAI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="openai" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
+
+<!-- React -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- Next.js -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- TypeScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- PostgreSQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+
+<!-- Redis -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/>
+
+</p>
+
+---
+
+<h3 align="left">🧩 AI Engineering Expertise</h3>
+
+<p align="left">
+
+🔹 AI Agents & Agentic Workflows  
+🔹 Retrieval-Augmented Generation (RAG)  
+🔹 MCP (Model Context Protocol)  
+🔹 LLM Application Development  
+🔹 Prompt Engineering  
+🔹 Tool & Function Calling  
+🔹 Embeddings & Semantic Search  
+🔹 Vector Databases  
+🔹 LangChain  
+🔹 LangGraph  
+🔹 OpenAI API  
+🔹 Gemini API  
+🔹 Claude API  
+🔹 AWS Bedrock  
+🔹 Azure OpenAI  
+🔹 FastAPI  
+🔹 AI SaaS Development  
+
+</p>
+
+---
+
+<h3 align="left">💡 About Me</h3>
+
+<p align="left">
+
+🤖 I am an <b>AI Engineer / Generative AI Engineer</b> focused on building practical and production-oriented AI applications using Large Language Models, RAG, AI Agents and Agentic Workflows.
+
+<br/><br/>
+
+🧠 I enjoy working with <b>LLMs, Retrieval-Augmented Generation, AI Agents, LangChain, LangGraph, MCP and modern AI APIs</b> to turn AI capabilities into real-world applications.
+
+<br/><br/>
+
+⚡ My backend experience with <b>Python, FastAPI, APIs and databases</b> helps me build complete AI applications rather than working only with isolated AI experiments.
+
+<br/><br/>
+
+🎯 I am particularly interested in building <b>end-to-end AI products and AI SaaS applications</b> by combining GenAI, backend systems, APIs, databases and modern frontend technologies.
+
+<br/><br/>
+
+💻 I also have experience with <b>React.js, Next.js, JavaScript and TypeScript</b>, allowing me to work across the full application stack when building AI-powered products.
+
+<br/><br/>
+
+📚 Currently focused on continuously improving my knowledge of <b>Generative AI, LLM applications, RAG architectures, AI agents and production AI engineering</b>.
+
+</p>
+
+---
+
+<h3 align="left">📌 Current Focus</h3>
+
+<p align="left">
+
+🤖 Generative AI Engineering  
+🧠 LLM Applications  
+📚 Production RAG Systems  
+🔗 AI Agents & Agentic Workflows  
+🔌 MCP (Model Context Protocol)  
+⚡ FastAPI AI Backends  
+🗄️ Vector Databases  
+☁️ AWS Bedrock & Azure OpenAI  
+🚀 AI SaaS Development  
+
+</p>
+
+---
+
+<h3 align="left">📊 Profile Statistics</h3>
+
+<div align="center">
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sanjit-samar&color=red" alt="sanjit-samar profile views"/>
+</p>
+
+</div>
+
+---
+
+<h3 align="left">🤝 Let's Connect</h3>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sanjit-s/">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
+       title="LinkedIn"
+       alt="LinkedIn Account"
+       width="35"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/sanjit-samar">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       title="GitHub"
+       alt="GitHub"
+       width="35"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">🚀 Building AI-Powered Applications | 🤖 Exploring Generative AI | 🧠 Learning & Building Every Day</h3>
+
+---
+
+<h3 align="center">📈 GitHub Statistics</h3>
+
+<p align="center">
+
+<a href="https://github.com/sanjit-samar">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=sanjit-samar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/sanjit-samar">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjit-samar&layout=compact&theme=dracula"/>
+</a>
+
+</p>
